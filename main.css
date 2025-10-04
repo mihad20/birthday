@@ -36,7 +36,7 @@ header .content {
   z-index: 1;
 }
 header .content h1 {
-  color: 00619C;
+  color: #00619C;
   font-size: 28px;
   font-weight: 900;
 }
@@ -64,7 +64,7 @@ header .content h1 span {
   }
 }
 header .content h2 {
-  color: 00619C;
+  color: #00619C;
   font-size: 42px;
   font-weight: 900;
   margin: 30px 0px;
@@ -90,7 +90,7 @@ header .content h2 {
   }
 }
 header .content .countdown {
-  color: 00619C;
+  color: #00619C;
   font-size: 36px;
   font-weight: 400;
 }
